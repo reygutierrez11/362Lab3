@@ -204,6 +204,11 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 
+form
+{
+    font-family: 'Oswald', sans-serif;
+}
+
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
