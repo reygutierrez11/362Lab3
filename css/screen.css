@@ -201,27 +201,30 @@ html {
 body
 {
     text-align: center;
-
+    font-family: 'Source Code Pro', monospace;
+    background-color: #e6f9ff;
+    font-size: X-large;
+    line-height: 1.8;
 }
 
 label {
   display: block;
-  color: red;
 }
 
 h1
 {
-
+    font-size: XX-large;
 }
 
 input
 {
-
+    border: none;
+    background-color: #E8E8E8;
 }
 
-input
+#input-submit
 {
-
+    filter: grayscale(100%);
 }
 
 p
