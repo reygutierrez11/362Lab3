@@ -198,16 +198,37 @@ html {
   text-rendering: optimizeLegibility;
 }
 
+body
+{
+    text-align: center;
+
+}
+
 label {
   display: block;
+  color: red;
 }
 
-/* ===== LAYOUT STYLES ====== */
-
-form
+h1
 {
-    font-family: 'Oswald', sans-serif;
+
 }
+
+input
+{
+
+}
+
+input
+{
+
+}
+
+p
+{
+
+}
+/* ===== LAYOUT STYLES ====== */
 
 /* ===== MODULAR STYLES ===== */
 
